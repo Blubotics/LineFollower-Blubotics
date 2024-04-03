@@ -1,11 +1,12 @@
-### Guia do Repositório - Seguidor de Linha Blubotics
-##
+# Guia do Repositório - Seguidor de Linha Blubotics
+
+
 Explicação sobre o repositório
 
 
 
 
-### Para Desenvolvedores
-##
+# Para Desenvolvedores
 
-Explicação de como usar o git
+
+Esta seção é destinada exclusivamente para desenvolvedores
