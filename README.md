@@ -9,4 +9,5 @@ Explicação sobre o repositório
 # Para Desenvolvedores
 
 
-Esta seção é destinada exclusivamente para desenvolvedores
+Esta seção é destinada exclusivamente a desenvolvedores colaboradores. Siga as intruções abaixo para poder trabalhar no repositório utilizando a ferramenta **git. 
+
