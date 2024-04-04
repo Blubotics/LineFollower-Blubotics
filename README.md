@@ -1,7 +1,9 @@
 # Guia do Repositório - Seguidor de Linha Blubotics
 
+## Do que se trata?
 
-Explicação sobre o repositório
+Este repositório traz os códigos fontes do carrinho Seguidor de Linha da equipe de robótica, Blubotics, da UFSC - Blumenau e das diferentes versões nas braches de cada desenvolvedor colaborador.
+
 
 
 
@@ -9,4 +11,5 @@ Explicação sobre o repositório
 # Para Desenvolvedores
 
 
-Esta seção é destinada exclusivamente para desenvolvedores
+Esta seção é destinada exclusivamente a desenvolvedores colaboradores. Siga as intruções abaixo para poder trabalhar no repositório utilizando a ferramenta **git. 
+
